@@ -1,5 +1,7 @@
 # mongotls - easily generate TLS certificates and keys for MongoDB test environments
 
+**ARCHIVAL NOTE:** This repository is archived; work is continuing at [my MongoDB-specific account](https://github.com/SpencerBrown-MongoDB/mongodb-tls-certs).
+
 ## Overview
 
 THe `mongotls` command allows you to generate TLS certificates, keys, keyfiles, SSH keys, and combination files for MongoDB test purposes. 
